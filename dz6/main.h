@@ -15,7 +15,7 @@ static const int arrayWidht = 4;
 
 void task1();
 void task2();
-void task3();
+//void task3();
 
 void CreateWidhtTwoSizeArray(int **, const size_t&, const size_t&); //создание второй ветки двухмерного динамического массива
 
